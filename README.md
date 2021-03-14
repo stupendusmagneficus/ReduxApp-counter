@@ -1,3 +1,13 @@
+4️⃣ My fourth project while studying on the course "JavaScript + React". 
+React + Redux.
+Project "Counter"🎰
+
+🎯 Tasks:
+1) Understand the basic principles of Redux
+2) Connect React and Redux
+3) Get familiar with React Context
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
